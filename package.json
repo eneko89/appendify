@@ -1,0 +1,28 @@
+{
+  "name": "appendify",
+  "version": "0.1.0",
+  "description": "Browserify transform to append text to CommonJS modules",
+  "main": "index.js",
+  "homepage": "https://github.com/eneko89/appendify",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:eneko89/appendify.git"
+  },
+  "bugs": "https://github.com/eneko89/appendify/issues",
+  "author": {
+    "name": "Eneko Sanz",
+    "url": "https://github.com/eneko89"
+  },
+  "dependencies": {
+    "hogan.js": "3.0.x",
+    "through2": "0.6.x",
+    "minimatch": "3.0.x"
+  },
+  "keywords": [
+    "browserify",
+    "transform",
+    "browserify-transform",
+    "append"
+  ],
+  "license": "MIT"
+}
